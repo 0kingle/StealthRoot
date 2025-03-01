@@ -56,7 +56,7 @@ Licença MIT para permitir uso e modificação livres.
 ```
 MIT License
 
-Copyright (c) 2023 [Seu Nome ou "StealthRoot Team"]
+Copyright (c) 2025 StealthRoot Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
