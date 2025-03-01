@@ -6,6 +6,7 @@
 1. Clone ou baixe este repositório.
 ```git clone https://github.com/0kingle/StealthRoot.git)
 cd StealthRoot
+```
 2. Execute o script de instalação:
    ```bash
    chmod +x install.sh
